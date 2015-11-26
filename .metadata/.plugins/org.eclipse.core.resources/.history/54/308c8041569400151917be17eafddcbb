@@ -1,0 +1,10 @@
+package dnd_inventory;
+
+import java.awt.Image;
+
+public class Card {
+	private int width;
+	private int length;
+	private Image pic;
+
+}
